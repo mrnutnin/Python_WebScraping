@@ -1,0 +1,91 @@
+Gclub
+http://a4ccc.gclub168.com/manage/hindex.jsp?languages=En
+User: sugclub
+Pass: Aa112233
+Login 2
+
+Huayclub ###OK
+https://agent.superlot999.com/login
+User: sub@zjjjc
+Pass: Aa112233
+
+Joker
+http://www.awebo8899.net/Account
+User: JACK2411SUB
+Pass: Aa112233
+
+LSM99
+http://ag.99lsm.com/login
+User: SUB@VJKPN	
+Pass: Aa112233
+
+LG88 ###OK
+https://agent.league89.com/site/login
+User: sub@jacj
+Pass: Aa112233
+
+SBO ####bot ไม่ได้
+http://agent.icetuna.com/
+User: subsbosbo
+Pass: Aa112233+
+
+ACE333 ####bot ไม่ได้
+https://thkiosk.ace333.com:8443/User/Login?AspxAutoDetectCookieSupport=1
+User: subace333
+Pass: Aa112233
+
+SCR888####bot ไม่ได้
+คิดมือ 75 %
+https://kiosk.918kiss.com/Login.aspx?rt=0.46333037160189194
+User: subsubscr888
+Pass: Aa112233
+
+Slotciti ####bot ไม่ได้
+คิดมือ 80 %
+http://kiosk.slotciti.com/Default.aspx?utp=logout&alt=0
+User: sub@SCJKC	
+Pass: Aa112233
+
+Slotxe ####bot ไม่ได้
+คิดมือ 75 %
+http://kiosk.xe-88.com/
+User: subslotxe
+Pass: Aa112233
+
+
+Ufabet ####bot ไม่ได้
+http://ag.ufabet.com/Public/Default11.aspx?lang=EN-GB
+User: UF5JKCsub
+Pass: Aa112233+
+
+
+
+
+
+
+
+
+
+joker_user = 'JACK2411SUB'
+joker_pass = 'Aa112233'
+
+LSM99_user = 'SUB@VJKPN'
+LSM99_pass = 'Aa112233'
+
+LG88_user = 'sub@jacj'
+LG88_pass = 'Aa112233'
+
+SBO_user = 'subsbosbo'
+SBO_pass = 'Aa112233+'
+
+SCR888_user = 'subsubscr888'
+SCR888_pass = 'Aa112233'
+
+slotciti_user = 'sub@SCJKC'	
+slotciti_pass = 'Aa112233'
+
+slotxe_user = 'subslotxe'
+slotxe_pass = 'Aa112233'
+
+Ufabet_user = 'UF5JKCsub'
+Ufabet_pass = 'Aa112233+'
