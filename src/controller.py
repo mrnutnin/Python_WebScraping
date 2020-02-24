@@ -1,6 +1,5 @@
-from web import huayClub2
+from web import huayClub
 import web
 
 
-
-huayClub2()
+huayClub()
