@@ -55,8 +55,8 @@ def huayClub():
         sumCom = WebDriverWait(driver, 10).until(ec.visibility_of_element_located((By.XPATH, '//*[@id="by-member-table-2"]/tbody/tr/td[15]'))).text
         
         driver.close()
-        print'Sum Agent = ' ,agent
-        print'Sum Agent = ' ,sumAgent
+        print 'Agent = ' ,agent
+        print 'Sum Agent = ' ,sumAgent
         print 'Sum Company = ' ,sumCom
 
         date_object = datetime.date.today()
@@ -64,15 +64,15 @@ def huayClub():
         print '[HuayClub] Opening Excel File...'
         ws = wb['Sheet1']
         ws['B2'].value=date_object
+        ws['H2'].value=date_object
         ws['C19'].value=agent
         ws['B19'].value=sumAgent
         ws['H19'].value=sumCom
-        
         wb.save(dirpath+'\output\Report.xlsx')
         print '[HuayClub] Save Excel Success!!'
         print '=============================='
     except:
-        print "Something Error"
+        print 'Something Error'
 
 
 def writeExcel(sheet, role1, role2, value1, value2):
